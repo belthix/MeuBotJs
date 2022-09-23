@@ -1,0 +1,22 @@
+{
+    "BOT_TOKEN": "MTAxOTYzNTk3MjM4MTYxODI4Nw.G4Atmc.cYOuukE-v_gt-5CAmRzxmo0GgKARtoBAtVRKnc",
+    "BOT_NAME": "MeuBotJS Testing",
+
+    "CMDS_PATH": "cmds",
+
+    "DISABLE_TERMINAL_HEADER": "false",
+    
+    "BOT_ADMIN_PREFIX": "\\\\>",
+    "BOT_ADMIN_CMD_DIR_PREFIX": "_",
+    "OWNER_ID": "248208742691110913",
+    "ADMIN_IDS": [
+        "180424578659647488"
+    ],
+
+    "BASE_PREFIX": "?",
+
+    "DEFAULT_STATUS": "online",
+    "DEFAULT_ACTIVITY": "!help",
+
+    "BOT_ICON_URL": "https://www.gardenrpg.com/i/icon.png"
+}

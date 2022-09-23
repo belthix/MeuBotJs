@@ -1,0 +1,25 @@
+{
+    "BOT_TOKEN": "none",
+    "BOT_NAME": "MeuBotJS",
+
+    "CMDS_PATH": "./cmds",
+    "DISABLE_MSG_CMDS": "false",
+
+    "DISABLE_TERMINAL_HEADER": "false",
+
+    "BOT_ADMIN_PREFIX": "\\>",
+    "BOT_ADMIN_CMD_DIR_PREFIX": "_",
+    "OWNER_ID": "none",
+    "ADMIN_IDS": [
+
+    ],
+
+    "GUILD_ADMIN_PREFIX": ">!",
+    "GUILD_ADMIN_CMD_DIR_PREFIX": "&",
+    "BASE_PREFIX": "!",
+
+    "DEFAULT_STATUS": "online",
+    "DEFAULT_ACTIVITY": "!help",
+
+    "BOT_ICON_URL": ""
+}

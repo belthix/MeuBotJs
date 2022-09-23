@@ -1,3 +1,5 @@
 node_modules/
 
-temp/
+data/*
+
+resources/bot-config
